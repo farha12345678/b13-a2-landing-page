@@ -107,7 +107,6 @@ nav {
   border-radius: 20px;
 }
 
-
 .desc{
   margin-top: 40px;
   display: flex;
@@ -126,14 +125,12 @@ nav {
   font-size: 16px;
 }
 
-
 .banner-btn{
   display: flex;
   gap: 12px;
 }
 
-.spotify,
-.msg{
+.spotify .msg{
   padding: 12px 20px;
   border-radius: 1000px;
   font-size: 16px;
